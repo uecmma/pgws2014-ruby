@@ -40,7 +40,7 @@ sudo apt-get install build-essential bison openssl libreadline6 \
 ```
 git clone https://github.com/sstephenson/rbenv.git ~/.rbenv
 mkdir -p ~/.rbenv/plugins/
-git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/
+git clone https://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build/
 ```
 
 以下のコマンドを実行します。
